@@ -13,7 +13,7 @@ int main () {
 	cout << "Dime tu nota de problemas " << endl;
 	cin >> nota_problemas;
 	
-	nota_real_teoria = nota_teoria * PORC_TEORIA;
+	nota_real_teoria = nota_teoria *      PORC_TEORIA;
 	nota_real_practicas = nota_practicas * PORC_PRACTICAS;
 	nota_real_problemas = nota_problemas * PORC_PROBLEMAS;
 	nota_total = nota_real_teoria + nota_real_practicas + nota_real_problemas;
