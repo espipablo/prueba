@@ -10,3 +10,5 @@ Sigo despierto desde ese dia:
 1. tengo secuelas
 2. estoy traumatizado
 3. **Pero de normal estoy bien**
+
+Llamas me mira raro ¡¡AYUDA!!
